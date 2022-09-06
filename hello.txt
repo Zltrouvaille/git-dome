@@ -1,6 +1,1 @@
-hello atuguigu hello git!2222
-hello atuguigu hello git!3333
-hello atuguigu hello git!
-hello atuguigu hello git!
-hello atuguigu hello git! 1hot-fix
-hello atuguigu hello git!
+hello
